@@ -37,11 +37,9 @@ These are then used to predict the next word in connection with the text input i
 
 The interface has 3 sections. 
 
-1st: Has a field for a person to enter text. 
+The user interface of the application was designed to predict English words from English text. The App has an interactive interface that refreshes the predicted word as text is being enterd.
 
-2nd: Shows the predicted next word, which continously refreshes. 
-
-3rd: Shows the enter sentence of what the person has entered.
+To use the application, simply type in a word, phrase, or sentence. The app will show the next top predicted word. The user can enter additional words, or change their entry, and the app will respond to the new input.
 
 
 *****
